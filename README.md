@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # ✨ Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=false&vCenter=true&width=450&lines=Jagannath+Padhi;" alt="Jagannath Padhi" /> ✨
 
@@ -86,10 +86,10 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=100&section=footer&animation=fadeIn" width="100%" />
-</div> -->
+</div>
 
 
-<div align="center">
+<!-- <div align="center">
 
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Jagannath+Padhi;Jagannath+Padhi" alt="Typing Name"/>
 
@@ -317,4 +317,4 @@ Modern React + Supabase application.
 
 ### Thanks for visiting my profile! 🚀
 
-</div>
+</div> -->
