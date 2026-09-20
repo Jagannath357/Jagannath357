@@ -109,12 +109,12 @@
   <a href="mailto:jagannathpadhi2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/Jagannath-Padhi">
+  <a href="https://github.com/Jagannath357">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Jagannath-Padhi&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Jagannath357&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
@@ -257,9 +257,9 @@ Modern React + Supabase application.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagannath-Padhi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagannath357&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath-Padhi&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath357&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </div>
 
@@ -269,7 +269,7 @@ Modern React + Supabase application.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jagannath-Padhi&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jagannath357&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -279,7 +279,7 @@ Modern React + Supabase application.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagannath-Padhi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagannath357&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -335,7 +335,7 @@ Modern React + Supabase application.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Jagannath-Padhi">
+<a href="https://github.com/Jagannath357">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
