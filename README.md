@@ -72,13 +72,13 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jagannath-padhi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101010" alt="Jagannath's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jagannath357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101010" alt="Jagannath's GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-padhi01&theme=tokyonight&hide_border=true&background=101010" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath357&theme=tokyonight&hide_border=true&background=101010" alt="GitHub Streak" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannath-padhi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=101010" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath357&layout=compact&theme=tokyonight&hide_border=true&bg_color=101010" alt="Top Languages" />
   </p>
 </div>
 
