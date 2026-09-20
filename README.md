@@ -1,325 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:020604,55:06351d,100:39FF88&animation=twinkling" width="100%" alt="Glowing green header" />
+# ✨ Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=false&vCenter=true&width=450&lines=Jagannath+Padhi;" alt="Jagannath Padhi" /> ✨
 
-<a href="https://github.com/Jagannath357">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3200&pause=1600&color=39FF88&center=true&vCenter=true&repeat=true&width=700&height=75&lines=Jagannath+Padhi" alt="Jagannath Padhi" />
-</a>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+&+Spring+Boot;Frontend+Developer+%7C+React+&+Angular;AI%2FML+Enthusiast+%7C+Problem+Solver" alt="Professions" />
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1100&color=7CFFB2&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Full+Stack+Developer;Java+Full+Stack+Developer;Frontend+Developer;AI%2FML+Explorer;Problem+Solver" alt="Rotating professional titles" />
+---
 
-<br/><br/>
+<p align="center">
+  🚀 <em>Building responsive, scalable web applications with a strong foundation in frontend, backend, and intelligent automation.</em>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Jagannath357&style=for-the-badge&color=39FF88&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Jagannath357?style=for-the-badge&logo=github&label=FOLLOWERS&color=39FF88&labelColor=07110b" alt="GitHub followers" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagannath-padhi01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://fir-portfolio-5970d.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" alt="LeetCode Badge"/>
+  </a>
+  <a href="mailto:jagannathpadhi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email Badge"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
+### 🌟 About Me
+
+- 🎓 I'm a Computer Science and Engineering undergraduate at **Silicon University** with an exceptional CGPA of **9.71/10**.
+- 💻 Passionate about crafting end-to-end full stack web applications using Java, Spring Boot, Angular, React.js, and MySQL.
+- 🧠 Active problem solver with **150+ DSA problems solved on LeetCode** and participant in coding contests/hackathons (Top 10 Teams in Code Verse & Ideathon, Top 15 in Hacknation at Nirman 5.0).
+- 🚀 Exploring AI/ML integration for intelligent automation and real-world solutions.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
 
-### `BUILD • LEARN • SOLVE • REPEAT`
-
-**Full Stack Developer** focused on Java, Spring Boot, Angular, React.js and database-driven applications — while exploring AI/ML for intelligent automation.
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
 ---
 
-## 👨‍💻 `whoami`
+### 💼 Featured Projects
 
-```java
-public class JagannathPadhi {
-
-    String role = "Full Stack Developer";
-
-    String[] stack = {
-        "Java", "Spring Boot", "Angular", "React.js",
-        "REST APIs", "MySQL", "MongoDB"
-    };
-
-    String[] interests = {
-        "DSA", "AI/ML", "Intelligent Automation",
-        "Real-world Web Applications"
-    };
-
-    String education =
-        "B.Tech CSE @ Silicon University | CGPA: 9.71/10";
-
-    String achievement =
-        "150+ DSA problems solved on LeetCode";
-}
-```
+- 🛒 **Online Product Order Management System (OMS)** (`Angular`, `Spring Boot`, `MySQL`)
+  - Developed a full-stack OMS handling product management, bookings, inventory, orders, invoices, and delivery tracking with robust REST APIs and CRUD features.
+- 🤝 **Customer Lead CRM System** (`Angular`, `Spring Boot`, `MySQL`)
+  - Full-stack CRM to manage customer leads, follow-ups, statuses, and priorities featuring a dynamic dashboard and advanced filtering.
+- 🤖 **AI Study Body** (`Streamlit`, `Python`, `Gemini API`)
+  - AI-powered PDF question-answering system enabling document understanding and query handling via Gemini API.
+- 🌐 **ConnectX - Social Networking Platform** (`Java Servlets`, `JSP`, `JSTL`, `MySQL`)
+  - Built a social networking application featuring user authentication, posting, messaging, and MVC architecture.
 
 ---
 
-## ⚡ What I Work With
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Full Stack
-
-- Java & Spring Boot
-- Spring MVC, Hibernate/JPA
-- REST APIs & CRUD
-- Angular & React.js
-- MySQL & MongoDB
-- MVC architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Problem Solving & AI
-
-- DSA & competitive problem solving
-- Python
-- Gemini API
-- AI-powered document understanding
-- Intelligent automation ideas
-- Practical project development
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Study Body
-
-**AI-powered PDF question-answering system built with Streamlit, Python and Gemini API.**
-
-| Layer | Technology |
-|---|---|
-| Interface | Streamlit |
-| Language | Python |
-| AI / API | Gemini API |
+### 📈 GitHub Stats & Streak
 
 <div align="center">
-
-<a href="https://github.com/Jagannath357/Ai_Study_Body">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jagannath357&repo=Ai_Study_Body&theme=dark&bg_color=050907&title_color=39FF88&text_color=C9F7D8&icon_color=39FF88&border_color=39FF88" alt="AI Study Body repository card" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Jagannath357/Ai_Study_Body">
-<img src="https://img.shields.io/badge/SOURCE_CODE-39FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=07110b" alt="AI Study Body source code" />
-</a>
-
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=jagannath-padhi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101010" alt="Jagannath's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-padhi01&theme=tokyonight&hide_border=true&background=101010" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannath-padhi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=101010" alt="Top Languages" />
+  </p>
 </div>
 
 ---
 
-## 📦 Online Product Order Management System
-
-**Full-stack OMS for product management, bookings, inventory, orders, invoices and delivery tracking.**
-
-| Layer | Technology |
-|---|---|
-| Frontend | Angular |
-| Backend | Spring Boot |
-| API | REST APIs |
-| Database | MySQL |
-
 <div align="center">
-
-<a href="https://github.com/Jagannath357/online-product-management-system-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jagannath357&repo=online-product-management-system-frontend&theme=dark&bg_color=050907&title_color=39FF88&text_color=C9F7D8&icon_color=39FF88&border_color=39FF88" alt="OMS repository card" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Jagannath357/online-product-management-system-frontend">
-<img src="https://img.shields.io/badge/FRONTEND_CODE-39FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=07110b" alt="OMS frontend source code" />
-</a>
-
-</div>
-
----
-
-## 🧩 More Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Customer Lead CRM System** | Leads, follow-ups, statuses, priorities, dashboard, search & filtering | Angular · Spring Boot · MySQL |
-| **ConnectX** | Authentication, posting, messaging & database integration | Java · Servlet · JSP · JSTL · MySQL |
-| **RappidNet** | Responsive application with authentication & database connectivity | React · Supabase |
-
-<div align="center">
-
-<a href="https://customer-lead-crm.netlify.app/"><img src="https://img.shields.io/badge/CRM_LIVE_DEMO-39FF88?style=for-the-badge&logo=netlify&logoColor=black&labelColor=07110b" alt="CRM live demo" /></a>
-<a href="https://github.com/Jagannath357/connectx"><img src="https://img.shields.io/badge/CONNECTX_CODE-39FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=07110b" alt="ConnectX source code" /></a>
-<a href="https://vital-pulse-map.lovable.app/"><img src="https://img.shields.io/badge/RAPPIDNET_LIVE-39FF88?style=for-the-badge&logo=react&logoColor=black&labelColor=07110b" alt="RappidNet live demo" /></a>
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-### `LANGUAGES`
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" alt="C Java Python JavaScript" />
-</div>
-
-### `FRONTEND`
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind&theme=dark" alt="HTML CSS React Angular Bootstrap Tailwind" />
-</div>
-
-### `BACKEND & FRAMEWORKS`
-<div align="center">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" alt="Spring Hibernate Maven" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Spring_MVC-39FF88?style=for-the-badge&logo=spring&logoColor=black&labelColor=07110b" alt="Spring MVC" />
-<img src="https://img.shields.io/badge/JDBC-39FF88?style=for-the-badge&logo=java&logoColor=black&labelColor=07110b" alt="JDBC" />
-<img src="https://img.shields.io/badge/Servlets-39FF88?style=for-the-badge&logo=java&logoColor=black&labelColor=07110b" alt="Servlets" />
-<img src="https://img.shields.io/badge/JSP-39FF88?style=for-the-badge&logo=java&logoColor=black&labelColor=07110b" alt="JSP" />
-<img src="https://img.shields.io/badge/REST_APIs-39FF88?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=07110b" alt="REST APIs" />
-</div>
-
-### `DATABASES`
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL MongoDB" />
-</div>
-
-### `AI / TOOLS`
-<div align="center">
-<img src="https://img.shields.io/badge/Gemini_API-39FF88?style=for-the-badge&logo=google&logoColor=black&labelColor=07110b" alt="Gemini API" />
-<img src="https://img.shields.io/badge/Streamlit-39FF88?style=for-the-badge&logo=streamlit&logoColor=black&labelColor=07110b" alt="Streamlit" />
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse&theme=dark" alt="Git GitHub Postman VS Code Eclipse" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Swagger-39FF88?style=for-the-badge&logo=swagger&logoColor=black&labelColor=07110b" alt="Swagger" />
-<img src="https://img.shields.io/badge/Spring_Tool_Suite-39FF88?style=for-the-badge&logo=spring&logoColor=black&labelColor=07110b" alt="Spring Tool Suite" />
-</div>
-
----
-
-# 💼 Experience
-
-### Java Full Stack Developer
-**Silicon University · Bhubaneswar · 05/2026**
-
-- Developed end-to-end applications using **Java, Spring Boot, MySQL and Angular**.
-- Built responsive interfaces integrated with Spring Boot backends.
-
-### Frontend Developer Intern
-**Silicon University · Bhubaneswar · 06/2025**
-
-- Developed responsive frontend projects, including a personal portfolio, using **HTML, CSS, JavaScript and React.js**.
-- Built interactive and responsive user interfaces.
-
-### Frontend Developer
-**1Stop · Bhubaneswar · 02/2025**
-
-- Developed **Expense Tracker, To-Do List and Calculator** projects.
-- Used **HTML, CSS, JavaScript, Bootstrap, jQuery and React.js**.
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/150%2B-LEETCODE_DSA-39FF88?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=07110b" alt="150 plus LeetCode DSA problems" />
-<img src="https://img.shields.io/badge/TOP_10-Code_Verse_%26_Ideathon-39FF88?style=for-the-badge&logo=trophy&logoColor=black&labelColor=07110b" alt="Top 10 Code Verse and Ideathon" />
-<img src="https://img.shields.io/badge/TOP_15-Hacknation-39FF88?style=for-the-badge&logo=trophy&logoColor=black&labelColor=07110b" alt="Top 15 Hacknation" />
-
-</div>
-
-- **150+ DSA problems** solved on LeetCode.
-- **Top 10 Teams** in Code Verse and Ideathon at Nirman 5.0.
-- **Top 15 Teams** in Hacknation at Nirman 5.0.
-
----
-
-# 📜 Certifications
-
-- **Silicon University** — Portfolio Development
-- **IBM SkillsBuild** — AI Notes Analyzer AI/ML Project
-- **Vibe Coding Project** — RappidNet
-
----
-
-# 🎓 Education
-
-**Silicon University, Bhubaneswar**  
-Bachelor of Technology — Computer Science and Engineering  
-**CGPA: 9.71 / 10 · 07/2024 – Present**
-
-**Jhadeswar +2 Science Residential Higher Secondary School, Balasore**  
-Higher Secondary Education — PCM · **86%**
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Jagannath357">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jagannath357&show_icons=true&theme=dark&bg_color=050907&title_color=39FF88&icon_color=39FF88&text_color=C9F7D8&border_color=39FF88&rank_icon=github" alt="Jagannath GitHub statistics" />
-</a>
-<a href="https://github.com/Jagannath357">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath357&layout=compact&theme=dark&bg_color=050907&title_color=39FF88&text_color=C9F7D8&border_color=39FF88&langs_count=8" alt="Jagannath top languages" />
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jagannath357&theme=dark&background=050907&border=39FF88&ring=39FF88&fire=39FF88&currStreakNum=C9F7D8&currStreakLabel=39FF88&sideNums=C9F7D8&sideLabels=7CFFB2&dates=7CFFB2" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jagannath357&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6&row=1&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" alt="GitHub trophies" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagannath357&bg_color=050907&color=39FF88&line=39FF88&point=C9F7D8&area=true&hide_border=false&border_color=39FF88&custom_title=Jagannath%20Padhi%20%7C%20Contribution%20Graph" width="95%" alt="Contribution activity graph" />
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Jagannath357"><img src="https://img.shields.io/badge/GitHub-Jagannath357-39FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=07110b" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/Jagannath135/"><img src="https://img.shields.io/badge/LeetCode-Jagannath135-39FF88?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=07110b" alt="LeetCode" /></a>
-<a href="mailto:jagannathpadhi2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-39FF88?style=for-the-badge&logo=gmail&logoColor=black&labelColor=07110b" alt="Email" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Turning+ideas+into+working+software.;Learning+today.+Building+tomorrow." alt="Closing message" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:39FF88,50:062d19,100:020604&animation=twinkling" width="100%" alt="Glowing green footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
