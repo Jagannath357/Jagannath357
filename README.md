@@ -253,38 +253,6 @@ Modern React + Supabase application.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagannath357&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath357&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jagannath357&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagannath357&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🏅 Achievements
 
 ✨ 150+ DSA Problems Solved
