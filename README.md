@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # ✨ Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=false&vCenter=true&width=450&lines=Jagannath+Padhi;" alt="Jagannath Padhi" /> ✨
 
@@ -86,4 +86,267 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=100&section=footer&animation=fadeIn" width="100%" />
+</div> -->
+
+
+<div align="center">
+
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Jagannath+Padhi;Jagannath+Padhi" alt="Typing Name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2200&pause=1000&color=00FFA3&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+Developer;Java+Developer;Spring+Boot+Developer;React+Developer;Angular+Developer;Problem+Solver;AI+%26+ML+Explorer;DSA+Enthusiast" alt="Typing Profession"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E4M3Nmd2k4a2Y2cWhmN2N3MXA2dGJjNmN1M3VjNnA0eDg5bXc4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+
+### 🚀 Building Scalable Applications | Solving Real-World Problems | Learning Every Day
+
+<p>
+  <a href="https://fir-portfolio-5970d.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jagannath-padhi01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jagannathpadhi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Jagannath-Padhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Jagannath-Padhi&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌟 About Me
+
+```java
+class JagannathPadhi {
+
+    String role = "Full Stack Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "React",
+        "MySQL",
+        "REST APIs"
+    };
+
+    String currentFocus = "Building scalable web applications";
+
+    String funFact = "I enjoy solving DSA problems and participating in hackathons.";
+}
+```
+
+💡 Passionate about creating modern web applications with clean architecture.
+
+🎯 Exploring AI/ML for intelligent automation.
+
+🏆 150+ DSA problems solved on LeetCode.
+
+🚀 Constantly learning new technologies and building impactful projects.
+
+---
+
+# ✨ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# ⚡ Featured Projects
+
+## 🤖 AI Study Buddy
+
+> AI-powered PDF Question Answering System
+
+- Streamlit
+- Python
+- Gemini API
+- Intelligent document understanding
+
+---
+
+## 🛒 Online Product Order Management System
+
+- Angular
+- Spring Boot
+- MySQL
+
+Features:
+
+- Product Management
+- Inventory
+- Orders
+- Invoice Generation
+- Delivery Tracking
+
+---
+
+## 📈 Customer Lead CRM
+
+- Angular
+- Spring Boot
+- MySQL
+
+Features:
+
+- Lead Management
+- Dashboard
+- Follow-ups
+- Search & Filtering
+
+---
+
+## 🌐 ConnectX
+
+A Java-based Social Networking Platform.
+
+- Java
+- Servlets
+- JSP
+- JSTL
+- MySQL
+
+Features:
+
+- Authentication
+- Messaging
+- Posts
+- MVC Architecture
+
+---
+
+## ⚡ RappidNet
+
+Modern React + Supabase application.
+
+- Authentication
+- Responsive UI
+- Real-time Database
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagannath-Padhi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath-Padhi&theme=tokyonight&hide_border=true&border_radius=20"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jagannath-Padhi&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagannath-Padhi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+✨ 150+ DSA Problems Solved
+
+🥇 Top 10 Teams — Code Verse
+
+🥇 Top 10 Teams — Ideathon
+
+🏅 Top 15 Teams — HackNation (Nirman 5.0)
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Spring Boot
+- Microservices
+- System Design
+- AI Integration
+- Cloud Deployment
+
+---
+
+# 💻 Developer Quote
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://fir-portfolio-5970d.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jagannath-padhi01/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jagannathpadhi2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Jagannath-Padhi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+
+### Thanks for visiting my profile! 🚀
+
 </div>
