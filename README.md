@@ -71,15 +71,15 @@
 ### 📈 GitHub Stats & Streak
 
 <div align="center">
-  <p>
+  <!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Jagannath357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101010" alt="Jagannath's GitHub Stats" />
-  </p>
+  </p> -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath357&theme=tokyonight&hide_border=true&background=101010" alt="GitHub Streak" />
   </p>
-  <p>
+  <!-- <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath357&layout=compact&theme=tokyonight&hide_border=true&bg_color=101010&langs_count=6" alt="Top Languages" />
-  </p>
+  </p> -->
 </div>
 
 ---
